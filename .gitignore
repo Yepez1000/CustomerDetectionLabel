@@ -1,0 +1,12 @@
+# Ignore specific files
+objdetection/CustomersView copy.csv
+objdetection/CustomersView.csv
+objdetection/CustomersView3.csv
+objdetection/Oscar/forEdgar/CustomersView.csv
+
+# Ignore specific directories
+objdetection/2024_07_23_CannotRead/
+objdetection/2024_07_23_No_detections/
+test/
+objdetection/Oscar/forEdgar/allImages/
+objdetection/venv
